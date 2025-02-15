@@ -28,7 +28,7 @@ int main(){
         break;
     
     default:
-        cout<<"Invalid number";
+        cout<<"Not a week";
         break;
     }
 }
